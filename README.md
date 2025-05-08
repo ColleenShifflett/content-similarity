@@ -27,7 +27,7 @@ All data used in this notebook is publicly available. For demonstration purposes
 
 ## What's Inside
 
-- `Compare Pages - Portfolio Ready.ipynb`: The complete, annotated Jupyter Notebook
+- `content_similarity_analysis.ipynb`: The complete, annotated Jupyter Notebook
 - Sample dataset (`refund-search-urls.csv`) expected to be present in the same directory
 
 ## Next Steps
